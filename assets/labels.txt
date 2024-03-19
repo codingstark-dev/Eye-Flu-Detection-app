@@ -1,2 +1,2 @@
-0 Not Detected
-1 Eye Flu
+Not Detected
+Eye Flu
